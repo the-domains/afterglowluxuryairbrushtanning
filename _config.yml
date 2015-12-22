@@ -1,6 +1,6 @@
 name: AfterGlowLuxuryAirbrushTanning
 favicon: null
-layout_spectrum: 0.8534565803129226
+layout_spectrum: 0.56303
 typography_spectrum: 0.3635662232991308
 title: AfterGlow Luxury Airbrush Tanning
 cta:
@@ -17,12 +17,12 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#F7EDF0'
-    - '#F4CBC6'
-    - '#F4AFAB'
-    - '#F4EEA9'
-    - '#F4F482'
-  brandStrength: 0.49507892061956227
+    - '#ffffff'
+    - '#fb01ff'
+    - '#25fefe'
+    - '#fd8cff'
+    - '#b0501d'
+  brandStrength: 0.5625
   lightness: 0.5412653917446733
   saturation: 0.5777319720946252
   rhythmicContrast: 0.9796149891335517
